@@ -3,7 +3,7 @@
   "type": "module",
   "devDependencies": {
     "bun-types": "^1.0.1",
-    "bun-vercel": "^1.0.0-alpha.2",
+    "bun-vercel": "^1.0.0-alpha.3",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2"
   },
