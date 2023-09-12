@@ -1,0 +1,14 @@
+{
+  "name": "bun-vercel-app",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.1",
+    "bun-vercel": "AndrewBarba/bun-vercel",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "build": "bun run node_modules/bun-vercel/build.ts ./src/main.ts",
+    "dev": "bun run src/main.ts"
+  }
+}
